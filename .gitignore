@@ -1,6 +1,11 @@
 # Compiled class file
 *.class
 
+# Relativos a Maven yvvs code
+.mvn
+.vscode
+target/
+
 # Log file
 *.log
 
